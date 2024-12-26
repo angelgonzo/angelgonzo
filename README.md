@@ -1,8 +1,10 @@
-- Hi, I’m @angelgonzo
-- I’m interested in data analysis, data manipulation, AI, psychology, and linguistics
-- I’m currently learning Python and SQL for data analysis
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I enjoy playing videogames and drawing little sketches of scenes, and models.
+Hi, I’m @angelgonzo and welcome to my page.
+
+I'm pursuing my interest of data analysis by teaching myself all the tools I would need.
+Besides that I'm interested in a variety of things from gothic media, to videogames, to learning more about psychology, and linguistics (i majored in this lol).
+If you want to talk the post I'll make, you can reach me here angelg0832@outlook.com
+
+Thank you for checking out my page, and fear the old blood hunter.
 
 <!---
 angelgonzo/angelgonzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
