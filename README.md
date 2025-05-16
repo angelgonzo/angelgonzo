@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Angel Gonzalez<br><br>-📫 How to reach me angelg0832@outlook.com<br>- 🔭 I’m working as a Data Collection Specialist for Google via Cognizant<br>- 📚 I'm currently learning how to use python, pandas, and matplotlib<br>- ⚡ In my free time I like to keep expanding my skills with mySQL and Tableau. Though I do enjoy playing videogames with Bloodborne being my favorite. and I like reading books.</p>
+<p align="left">I'm Angel Gonzalez<br><br>-📫 How to reach me at: angelg0832@outlook.com<br>- 🔭 I’m working as a Data Collection Specialist for Google via Cognizant<br>- 📚 I'm currently learning how to use python, pandas, and matplotlib<br>- ⚡ In my free time I like to keep expanding my skills with mySQL and Tableau. Though I do enjoy playing videogames with Bloodborne being my favorite. and I like reading books.</p>
 
 ###
 
@@ -55,13 +55,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=angelgonzo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angelgonzo/angelgonzo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angelgonzo/angelgonzo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/angelgonzo/angelgonzo/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
