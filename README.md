@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Angel Gonzalez<br><br>-📫 How to reach me at: angelg0832@outlook.com<br>- 🔭 I’m working as a Technical Support Engineer/Data Collection Specialist for Google via Cognizant<br>- 📚 I'm currently learning how to use python, pandas, and matplotlib<br>- ⚡ In my free time I like to keep expanding my skills with mySQL and PowerBI. Though I do enjoy playing videogames with Bloodborne being my favorite, and I like reading books.</p>
+<p align="left">I'm Angel Gonzalez<br><br>-📫 How to reach me at: angelg0832@outlook.com<br>- 🔭 I’m working as a Technical Support Engineer/Data Collection Specialist for Google via Cognizant<br>- 📚 I'm currently learning how to use data analytical tools and linux system adminstration <br>- ⚡ In my free time I like to keep expanding my skills with mySQL and PowerBI. Though I do enjoy playing videogames with Bloodborne being my favorite, and I like reading books.</p>
 
 ###
 
