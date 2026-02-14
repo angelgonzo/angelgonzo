@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I recently started my journey with learning tools to understand what databases are made from and how one might use it.<br><br>I've had a lot fun so far, and I hope I can continue on this path. Recently I've started to take a path into Linux System Administration so there's that, very exciting!.</p>
+<p align="left">I recently started my journey with learning tools to understand how Linux is used to create users, manage permissions, and create entire filesystem in order to have system up and running.<br><br>I've had a lot fun so far, and I hope I can continue on this path.</p>
 
 ###
 
